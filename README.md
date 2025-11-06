@@ -271,30 +271,6 @@ Key packages used in the project:
 - `appsettings.Development.json` - Development settings
 - `appsettings.Production.json` - Production settings
 
----
-
-## 🧪 Testing & Debugging
-
-### Running Tests
-
-```bash
-dotnet test
-```
-
-### Debugging in Visual Studio
-
-1. Set breakpoints in your code
-2. Press `F5` or click **Debug > Start Debugging**
-3. Use Debug menu to step through code
-
-### Debugging in VS Code
-
-1. Install C# extension
-2. Create `.vscode/launch.json`
-3. Press `F5` to start debugging
-
----
-
 ## 📤 Deployment
 
 ### Deploy to Azure App Service
@@ -333,28 +309,6 @@ dotnet publish -c Release
 ## 📝 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📧 Support & Contact
-
-For questions, suggestions, or bug reports:
-
-- **GitHub Issues**: [Create an issue](https://github.com/JohnSnow46/iBoooks/issues)
-- **Email**: [contact info]
-- **Author**: [John Snow](https://github.com/JohnSnow46)
 
 ---
 
