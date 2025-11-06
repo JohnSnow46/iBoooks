@@ -1,0 +1,90 @@
+# Pliki binarne i obiekty
+bin/
+obj/
+*.o
+*.a
+*.so
+
+# Pliki Build
+*.dll
+*.exe
+*.out
+*.app
+*.lib
+
+# Środowisko deweloperskie
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+*.rider/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.mdf
+*.ldf
+*.db
+*.db-shm
+*.db-wal
+
+# Azure Storage emulator
+AzureStorageEmulatorDb*
+
+# Application Insights
+ApplicationInsights.config
+.ApplicationInsightsConfig.xml
+
+# Node modules (jeśli używasz Node.js w projekcie)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output directories
+dist/
+build/
+
+# IDE specific files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Rider plugin specific files
+/.idea/shelf/
+/.idea/workspace.xml
